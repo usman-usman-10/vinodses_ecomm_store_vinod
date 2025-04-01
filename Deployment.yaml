@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: ecommstorecontainer
-      image: ephrash1/ecomm_store
+      image: usmanm1010/ecomm_store
       ports:
       - containerPort: 80
 ---
